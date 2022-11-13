@@ -1,0 +1,223 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.btnbor{
+  border: none;
+  color: rgb(5, 160, 5);
+}
+.headbg{
+  background-color: rgb(67, 135, 238);
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+.wht{
+  color: white;
+  font-size: 15px;
+}
+
+/* Navbar Css start */
+
+body{
+  margin: 0px;
+  padding: 0px;
+  }
+  h1{
+    font-family: arial;
+  }
+  #menu{
+    margin-top:15px;
+  }
+  #menu ul
+  {
+    list-style:none;
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0;
+  }
+
+  #menu ul a
+  {
+    display:block;
+    color:rgb(45, 48, 45);
+    text-decoration:none;
+    font-weight:700;
+    font-size:15px;
+    line-height:32px;
+    padding:0 15px;
+    font-family:Helvetica,Arial,sans-serif;
+  }
+  .ulpadd{
+    padding-left: 30px;
+  }
+  ul li{
+    padding: 30px;
+  }
+
+  #menu ul li
+  {
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0;
+  }
+
+  #menu ul li.active
+  {
+    color: #84b13b;
+  }
+
+  #menu ul li:hover
+  {
+    /*background:#f6f6f6*/
+    background: #84b13b;
+    border-radius: 20px;
+  }
+
+  #menu ul ul
+  {
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:#f7f7f7;
+    padding:0;
+    border: 1px solid #eeecec;
+  }
+
+  #menu ul ul li
+  {
+    float:none;
+    width:200px;
+    border-left: 3px solid #f5f8ef;
+  }
+  #menu ul ul li:hover{
+    border-left: 3px solid #2c3e50;
+  }
+
+  #menu ul ul a
+  {
+    line-height:120%;
+    padding:10px 15px
+  }
+
+  #menu ul ul ul
+  {
+    top:-4px;
+    left:100%
+  }
+
+  #menu ul li:hover > ul
+  {
+    display:block
+  }
+  .sidha
+  {
+    float: right;
+
+  }
+  table {
+    padding-top: 10px;
+    border-bottom: 2px solid #ebebeb;
+    width: 100%;
+  }
+
+  /* Navbar Css end */
+
+  .MarqCol{
+    color: rgb(2, 167, 2);
+  }
+  .marqp{
+    color: white;
+  }
+  .marqbg{
+    background-color: blue;
+    height: 30px;
+  }
+  .dibg{
+    background-color: #dae7ec;
+    /* height: 480px; */
+    /* width: 100%; */
+  }
+  .mhc{
+    color: rgb(15, 101, 231);
+    border-bottom: 1px solid rgb(218, 218, 218);
+  }
+  .cardbg{
+    background-color: #dae7ec;
+    border-radius: 20px;
+  }
+  .cardcolor{
+    color: rgb(15, 101, 231) ;
+  }
+  .cardborder{
+    border-radius: 20px;
+  }
+  .aline{
+    text-decoration: none;
+  }
+  .bgcolo{
+    background-color: #dae7ec;
+  }
+  .imgcolo{
+    color: rgb(15, 101, 231);
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .galcolo{
+    color: rgb(1, 117, 1);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .imgall{
+    text-align: center;
+  }
+  .houseicon{
+    color: rgb(1, 117, 1);
+    font-size: 40px;
+  }
+  .lungicon{
+    color: red;
+    font-size: 40px;
+  }
+  .imgicon{
+    color: darksalmon;
+    font-size: 40px;
+  }
+  .pcicon{
+    color: dodgerblue;
+    font-size: 40px;    
+  }
+  .cardshadow{
+    box-shadow: 9px 9px 9px rgb(109, 109, 109);
+    border-radius: 20px;
+    width: 350px;
+  }
+  .cardfont{
+    color: dodgerblue;
+    text-align: center;
+  }
+  .imgset{
+    height: 200px;
+    width: 250px;
+  }
+  .mapa{
+    margin: 0px;
+    padding: 0px;
+  }
+  .alileft{
+    text-align: left;
+  }
+  .footcolo{
+    background-color: blue;
+  }
+  .footbg{
+    background-color: blue;
+  }
+  .socialicon{
+    font-size: 20px;
+    padding-left: 20px;
+    color: white;
+  }
